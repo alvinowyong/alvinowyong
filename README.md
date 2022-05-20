@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 💻 I'm Alvin, a Computer Science undergraduate from Singapore (UTC+8).
-- 💼 I'm have worked on several full-stack client projects.
-- 📸 I am an contributor to stock images over at [Pexels](https://www.pexels.com/@alvin-chelsea-230969113/).
-- 💡 I am open to opportunities to learn, write and speak about anything technical.
+- 💼 I have worked on several full-stack client projects.
+- 📸 I contribute to CC0 stock images over at [Pexels](https://www.pexels.com/@alvin-chelsea-230969113/).
+- 💡 I'm open to opportunities to learn, write and speak about anything technical.
 
 ### Languages & Tools 🛠
 
