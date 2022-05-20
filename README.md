@@ -1,4 +1,5 @@
-![Hi there! I'm Alvin Owyong, a Software Developer and Graphic Designer!](cover.gif)
+![Hi there! I'm Alvin Owyong, a Software Developer and Graphic Designer!](./cover.gif#gh-light-mode-only)
+![Hi there! I'm Alvin Owyong, a Software Developer and Graphic Designer!](./cover_dark.gif#gh-dark-mode-only)
 
 ### Hi there 👋
 
