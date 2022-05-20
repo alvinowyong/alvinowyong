@@ -1,5 +1,6 @@
 ![Hi there! I'm Alvin Owyong, a Software Developer and Graphic Designer!](./cover.gif#gh-light-mode-only)
 ![Hi there! I'm Alvin Owyong, a Software Developer and Graphic Designer!](./cover_dark.gif#gh-dark-mode-only)
+> The animated image is rendered differently for dark and light mode.
 
 ### Hi there 👋
 
